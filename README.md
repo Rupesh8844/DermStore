@@ -1,14 +1,12 @@
 # Project-DermStore-
 Hi World !🌏
-We are students of Masai School from Web17 batch and we presenting our project- clone of DermStore, built during construct week of Unit-3.
-
+Dermstore is a skin care and beauty e-commerce site in the United States.Customers can easily buy skin care and beauty products at very low prices than markets.
 # Details : 🔭
 We had to make a replica of the DermStore website. DermStore is India’s fastest growing online retail store for the day-to-day and special occasion needs of Makeup,
 Skincare, Haircare, Personal care, Mom and Baby care, Fragrance, and Ayurveda products. We have tried our best to clone the replica of the website.
 
 
- 🚀 The link for the same is here : https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/
- 
+ 🚀 The link for the same is here : https://gautamviki.github.io/DermStore/ 
 
 # Our Team Members 👨‍💻
   - **Vikas Kumar Gautam**
